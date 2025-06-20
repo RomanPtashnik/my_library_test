@@ -24,8 +24,6 @@ This repository is used to test the text manipulation library
 
 ```allure serve results```  
 
-#Results
-
 
 
 
