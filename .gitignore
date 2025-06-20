@@ -1,1 +1,8 @@
 /venv/
+/.idea/
+/*.iml/
+/allure-results/
+/.vscode/
+/my_string_library/__pycache__/
+/tests/__pycache__/
+/.pytest_cache/
